@@ -3,9 +3,6 @@ layout: default
 title: Artifact and Enhancements
 ---
 
-# test 
-
----
 [Home](index.md) | [Code Review](code-review.md)
 
 # Artifact and Enhancements
