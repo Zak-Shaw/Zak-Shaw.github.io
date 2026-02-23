@@ -58,7 +58,31 @@ It also required thoughtful UI decisions to keep layouts readable across screen 
 
 # Enhancement 2: Algorithms and Data Structures
 
-(
+## Overview
+
+The original application allowed users to enter and display stored data, but it did not process that data beyond basic retrieval. For this enhancement, I implemented sorting and calculation features for both the weights and workouts screens. These updates introduced logic that evaluates and transforms stored data rather than simply displaying it.
+
+## What Was Added and Improved
+
+- Toggle-based sorting for weight and workout entries  
+- Queries that retrieve data in different ordered formats  
+- Progress calculation between starting and current weight  
+- Aggregation of total workout duration based on stored records  
+
+These features required iterating through database results, organizing data intentionally, and converting stored values into meaningful summaries for the user.
+
+## Why It Matters
+
+This enhancement moved the application beyond static data entry and display. Instead of acting as a simple log, the system now processes and evaluates stored information to provide insight and feedback.  
+
+Implementing sorting and aggregation within a real mobile application required careful handling of data consistency, internal representation, and user input variability. These updates demonstrate applied algorithmic thinking within a practical system rather than an isolated example.
+
+## Skills Demonstrated
+
+- Designing logic that processes and orders stored data  
+- Applying sorting and aggregation techniques within an application context  
+- Managing trade-offs between simplicity, performance, and readability  
+- Integrating new logic without disrupting existing functionality  
 
 ---
 
