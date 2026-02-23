@@ -15,60 +15,57 @@ Welcome to my Computer Science ePortfolio.
 
 ## Introduction
 
-Completing the Computer Science program and developing this ePortfolio has allowed me to clearly identify my strengths as a software engineer and refine my professional direction. Throughout the program, I have focused on building practical, working systems while continuously improving their structure, efficiency, and security. The capstone process strengthened my ability to analyze existing software, identify areas for improvement, and implement enhancements that deliver measurable technical value.  
+Completing the Computer Science program and building this ePortfolio gave me the chance to step back and see how much my approach to software development has grown. Early on, my focus was mainly on getting code to work. Over time, that focus shifted toward writing code that is organized, efficient, maintainable, and secure.  
 
-This portfolio reflects not just completed coursework, but growth in how I approach problems, structure systems, and communicate technical decisions. It demonstrates my ability to design solutions thoughtfully, evaluate trade-offs, and improve software with both performance and maintainability in mind.
+This portfolio shows that growth. It reflects not only that I can build working systems, but that I can review my own work, find weaknesses, improve performance, and design with long-term stability in mind. The capstone process helped me become more intentional about how and why I build software the way I do.
 
 ---
 
 ## Collaboration in Team Environments
 
-Throughout the program, I collaborated with peers during code reviews, discussion analyses, and structured project planning. These experiences strengthened my ability to explain technical concepts clearly, provide constructive feedback, and adapt based on input from others.  
+Throughout the program, collaboration happened through structured discussions, peer feedback, project planning, and technical walkthroughs. These experiences helped me get better at explaining my decisions clearly and listening to other perspectives without taking feedback personally.  
 
-Even in individually developed projects, I treated assignments as if they were part of a team workflow. I documented design decisions, structured code for readability, and approached enhancements as if they would be reviewed by colleagues or stakeholders. This mindset has prepared me to function effectively in professional development environments where communication and clarity are just as important as technical skill.
+Even when working on individual projects, I treated my work as if it would be reviewed by a team. I focused on writing readable code, adding comments when needed, and organizing logic clearly. That mindset prepares me to work effectively in professional environments where teamwork and clarity matter just as much as technical skill.
 
 ---
 
 ## Communication With Stakeholders
 
-A consistent focus of my coursework has been translating technical systems into understandable explanations. Through design documents, architecture diagrams, database planning, and code review presentations, I learned to communicate functionality without overwhelming nontechnical audiences.  
+One of the most important skills I developed was learning how to explain technical systems in a way that different audiences can understand. Through design documents, architecture explanations, and code review presentations, I practiced breaking down complex ideas into clear and logical steps.  
 
-The capstone code review process further strengthened this skill by requiring me to explain existing functionality, identify weaknesses, and justify enhancement decisions clearly and logically. This ability to bridge technical depth with accessible explanation is essential when working with managers, clients, or cross-functional teams.
+The capstone code review required me to explain what my system currently does, where it needed improvement, and why I chose specific enhancements. That experience strengthened my ability to communicate both the technical details and the reasoning behind my decisions.
 
 ---
 
 ## Data Structures and Algorithms
 
-The program deepened my understanding of how data structures and algorithmic decisions impact efficiency, scalability, and maintainability. Through coursework involving sorting algorithms, search optimization, tree structures, and complexity analysis, I developed the ability to evaluate trade-offs rather than simply implement solutions.  
+As I moved through courses focused on algorithms and data structures, I began thinking more carefully about trade-offs. Instead of just writing something that worked, I started considering runtime efficiency, memory usage, scalability, and readability.  
 
-Instead of choosing an approach based solely on what works, I now consider runtime efficiency, memory usage, readability, and long-term adaptability. This analytical mindset directly informs how I enhance software and improve existing systems.
+Understanding how different data structures perform in different situations improved the way I approach problem-solving. I now look at multiple possible solutions and choose the one that best balances performance and maintainability.
 
 ---
 
 ## Software Engineering and Databases
 
-My coursework emphasized structured development practices including modular design, separation of concerns, database normalization, and clean code principles. Projects involving mobile application development, database schema design, and full-stack integration strengthened my understanding of how front-end logic, back-end systems, and persistent storage interact.  
+My coursework emphasized clean structure, modular design, database organization, and separation of responsibilities within a system. Projects involving application development and database integration helped me understand how user interfaces, logic, and data storage must work together smoothly.  
 
-I developed confidence working with relational databases, designing schemas that maintain integrity and support scalable features. I also learned to approach refactoring strategically, improving architecture without sacrificing functionality.
+I gained confidence designing relational schemas, writing structured queries, and improving existing systems through refactoring. More importantly, I developed the discipline to think about structure and maintainability alongside functionality.
 
 ---
 
 ## Security Mindset
 
-Security became an increasingly important part of my development philosophy as I progressed through the program. I learned to consider input validation, authentication logic, secure data handling, and dependency awareness during design rather than as an afterthought.  
+Security became a more intentional part of my development process as I progressed through the program. I learned to consider input validation, safe authentication practices, and responsible data handling during system design rather than treating them as add-ons.  
 
-Developing a security mindset means anticipating misuse, preventing vulnerabilities, and protecting sensitive information proactively. This approach ensures that solutions are not only functional, but resilient and responsible.
+Having a security mindset means thinking ahead about how software might be misused and designing it to reduce risk. This approach helps ensure that the systems I build are not only functional, but reliable and trustworthy.
 
 ---
 
 ## How the Artifact Informs This Portfolio
 
-The artifact presented in this portfolio demonstrates growth across software design and engineering, algorithms and data structures, and databases within a single evolving system. By enhancing one comprehensive project across multiple technical dimensions, I was able to demonstrate layered improvement rather than isolated features.  
+The artifact presented in this portfolio shows improvement across software design, algorithms, and databases within one evolving system. By enhancing a single project in multiple technical areas, I was able to demonstrate deeper growth instead of adding unrelated features.  
 
-The enhancements show measurable refinement in structure, performance, and data management. Together, they illustrate my ability to analyze an existing system, identify areas for improvement, and implement thoughtful technical solutions that align with professional standards in software engineering.
-
-This portfolio represents not just completed assignments, but the development of a disciplined, analytical, and security-conscious approach to building software.
-
+Together, these enhancements show my ability to analyze an existing system, identify meaningful improvements, and implement changes that strengthen structure, efficiency, and reliability. This portfolio represents not just completed assignments, but the development of a thoughtful and practical approach to software engineering.
 ---
 
 ## Explore
