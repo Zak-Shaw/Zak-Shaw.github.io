@@ -66,6 +66,7 @@ Having a security mindset means thinking ahead about how software might be misus
 The artifact presented in this portfolio shows improvement across software design, algorithms, and databases within one evolving system. By enhancing a single project in multiple technical areas, I was able to demonstrate deeper growth instead of adding unrelated features.  
 
 Together, these enhancements show my ability to analyze an existing system, identify meaningful improvements, and implement changes that strengthen structure, efficiency, and reliability. This portfolio represents not just completed assignments, but the development of a thoughtful and practical approach to software engineering.
+
 ---
 
 ## Explore
