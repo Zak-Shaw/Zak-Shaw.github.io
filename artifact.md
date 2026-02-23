@@ -88,7 +88,32 @@ Implementing sorting and aggregation within a real mobile application required c
 
 # Enhancement 3: Databases
 
-(
+
+## Overview
+
+The original application stored weight entries using a single-purpose database structure. For this enhancement, I expanded the database schema to support workout tracking alongside weight data. This required designing a new workouts table, updating the database helper, and integrating the additional data into the application workflow.
+
+## What Was Added and Improved
+
+- Creation of a dedicated workouts table  
+- Updates to the database helper to manage new queries and CRUD operations  
+- Support for user-specific workout records  
+- Queries to retrieve, sort, and aggregate stored workout data  
+
+These changes transformed the application from a single-function tracker into a more flexible system capable of managing multiple related data types.
+
+## Why It Matters
+
+This enhancement demonstrates practical database design within a real application environment. Expanding the schema required careful planning to ensure new tables and queries did not interfere with existing functionality or user data.  
+
+The updated structure supports persistent storage, controlled data retrieval, and scalable feature expansion. By moving from a simple data model to a more structured and extensible design, the application became more maintainable and adaptable.
+
+## Skills Demonstrated
+
+- Designing and extending relational database schemas  
+- Writing and integrating structured queries within an application  
+- Managing user-linked records and data integrity  
+- Planning database changes without disrupting existing systems  
 
 ---
 
