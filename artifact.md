@@ -121,4 +121,35 @@ The updated structure supports persistent storage, controlled data retrieval, an
 
 This section explains how the enhancements support the five CS 499 course outcomes.
 
-(
+## Outcome 1  
+**Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.**
+
+Throughout the capstone process, I approached development as if working within a team setting. The structured code review, documented enhancement plans, and clear separation between original and enhanced versions reflect professional collaboration practices. By organizing the project clearly and presenting improvements in a way that supports decision making, this portfolio demonstrates readiness to contribute within diverse development environments.
+
+---
+
+## Outcome 2  
+**Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.**
+
+The code review video, written narratives, and structured enhancement documentation demonstrate my ability to communicate technical concepts clearly and appropriately for different audiences. Each enhancement is explained in terms of both implementation and impact, showing not only what was built, but why it matters.
+
+---
+
+## Outcome 3  
+**Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.**
+
+The sorting and calculation enhancements required evaluating how stored data should be processed and displayed. Implementing ordered queries and aggregation logic demonstrates the application of algorithmic thinking within a practical system. Trade-offs between simplicity, performance, and maintainability were considered during implementation.
+
+---
+
+## Outcome 4  
+**Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.**
+
+This artifact demonstrates the use of Android development tools, SQLite database integration, and structured application design practices to deliver a working solution that provides measurable value to users. Expanding the application from basic weight tracking to a more complete tracking system shows intentional improvement rather than surface-level feature addition.
+
+---
+
+## Outcome 5  
+**Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.**
+
+While the application stores data locally, careful attention was given to input validation, controlled database access, and maintaining consistent internal data representations. Enhancements were implemented in a way that protected existing user data and preserved system stability, reflecting an awareness of responsible and secure design practices.
