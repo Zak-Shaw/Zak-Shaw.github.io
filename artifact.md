@@ -18,11 +18,11 @@ This application was originally developed as a mobile weight-tracking system tha
 ## Code (Before and After)
 
 - **Original version (before enhancements):**  
-  https://github.com/Zak-Shaw/Zak-Shaw.github.io/tree/main/original
+  [View Original Code on GitHub](https://github.com/Zak-Shaw/Zak-Shaw.github.io/tree/main/original)
 
 - **Enhanced version (after enhancements):**  
-  https://github.com/Zak-Shaw/Zak-Shaw.github.io/tree/main/enhanced
-
+  [View Enhanced Code on GitHub](https://github.com/Zak-Shaw/Zak-Shaw.github.io/tree/main/enhanced)
+  
 ---
 
 # Enhancement 1: Software Design and Engineering
