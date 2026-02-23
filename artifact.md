@@ -15,6 +15,11 @@ title: Artifact and Enhancements
 
 This application was originally developed as a mobile weight-tracking system that allows users to create accounts, log weight entries, set goals, and store data locally using SQLite.
 
+## Code (Before and After)
+
+- **Original version (before enhancements):** [View the original code](original/)
+- **Enhanced version (after enhancements):** [View the enhanced code](enhanced/)
+
 ---
 
 # Enhancement 1: Software Design and Engineering
