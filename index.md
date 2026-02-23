@@ -8,6 +8,15 @@ title: Zak Shaw
 
 Welcome to my Computer Science ePortfolio.  
 
+## About This Portfolio
+
+This ePortfolio contains:
+
+- A professional self-assessment summarizing my development throughout the Computer Science program  
+- A code review video outlining my analysis and enhancement plan  
+- The original and enhanced versions of my artifact  
+- Narratives explaining my design decisions, technical growth, and alignment with program outcomes  
+
 [Code Review](code-review.md) | [Artifact and Enhancements](artifact.md)
 
 # Professional Self-Assessment  
@@ -67,23 +76,3 @@ The artifact presented in this portfolio shows improvement across software desig
 
 Together, these enhancements show my ability to analyze an existing system, identify meaningful improvements, and implement changes that strengthen structure, efficiency, and reliability. This portfolio represents not just completed assignments, but the development of a thoughtful and practical approach to software engineering.
 
----
-
-## Explore
-
-- [Professional Self-Assessment](self-assessment.md)
-- [Code Review](code-review.md)
-- [Artifact and Enhancements](artifact.md)
-
----
-
-## About This Portfolio
-
-This ePortfolio contains:
-
-- A professional self-assessment summarizing my development throughout the Computer Science program  
-- A code review video outlining my analysis and enhancement plan  
-- The original and enhanced versions of my artifact  
-- Narratives explaining my design decisions, technical growth, and alignment with program outcomes  
-
-Each section is designed to clearly demonstrate measurable improvement and professional-level software engineering practices.
